@@ -1,0 +1,5 @@
+Chipotle,3101001234,www.chipotle.com,Mexican,https://www.nrn.com/sites/nrn.com/files/styles/article_featured_standard/public/uploads/2016/04/chipotlelogopromo_0.jpg?itok=eUsIpi7I,4.0
+McDoanlds,3101001234,www.mcdonalds.com,American,https://i.pinimg.com/originals/c7/10/f8/c710f8419ab6332f029e9981df0b6a07.jpg,2.0
+CPK,3101001234,www.cpk.com,American,https://vignette.wikia.nocookie.net/logopedia/images/0/02/CPK-New-Logo.png/revision/latest?cb=20130814010833,3.0
+Chick Fil A,3101001234,www.chick-fil-a.com,American,https://s.hdnux.com/photos/47/04/60/10243114/9/920x920.jpg,5.0
+Subway,3101001234,www.subway.com,American,http://static3.uk.businessinsider.com/image/57b231f2dd0895e7798b4716-700/subway_symbol_rgb_final.png,4.0

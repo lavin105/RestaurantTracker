@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RestaurantTracker</string>
+    
+    
+    <string-array name="restaurant_types">
+        <item>American</item>
+        <item>Mexican</item>
+        <item>Italian</item>
+        <item>French</item>
+
+    </string-array>
+    <string-array name="menu">
+        <item>Menu</item>
+        <item>Add</item>
+        <item>Clear</item>
+        <item>Load</item>
+        <item>Prefrences</item>
+
+    </string-array>
+    
+</resources>
